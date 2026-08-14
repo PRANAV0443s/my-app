@@ -213,3 +213,7 @@ compact use <version>
 
 **Network:** Preview
 **Contract Address:** `a8ac7057d2974e7d8932515e992d1f43162c5d3bb9e90d1a6a53e6b2401c316f`
+
+## Screenshot
+
+![Deployment Screenshot](assets/deployment-screenshot.jpeg)
